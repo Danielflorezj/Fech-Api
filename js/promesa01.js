@@ -16,3 +16,4 @@ const getHeroeByIdAsync = (id) =>{
 getHeroeByIdAsync(3)
     .then( console.log )
     .then( console.warn);
+
